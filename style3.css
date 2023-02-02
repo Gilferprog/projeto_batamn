@@ -45,11 +45,7 @@ li:hover {
     color: rgb(242, 245, 39);
 }
 
-#banner {
-     background-image: url(batmanfotos.jpg);
-     background-position: 50% 50%;
-     background-size: cover;
-     width: 100%;
-     height:500px;
+body {
+    background-color: aquamarine;
 }
 
